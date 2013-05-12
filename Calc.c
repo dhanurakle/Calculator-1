@@ -45,6 +45,7 @@ int main(void)
 	printf("2. Multiply\n");
 	printf("3. Subtract\n");
 	printf("4. Division\n");
+	printf("5. HII\n");
 	scanf("%d",&whichSign);
 
 
